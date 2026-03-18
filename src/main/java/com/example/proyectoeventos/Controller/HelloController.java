@@ -1,4 +1,4 @@
-package com.example.proyectoeventos;
+package com.example.proyectoeventos.Controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

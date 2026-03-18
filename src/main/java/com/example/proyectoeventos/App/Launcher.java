@@ -1,4 +1,4 @@
-package com.example.proyectoeventos;
+package com.example.proyectoeventos.App;
 
 import javafx.application.Application;
 

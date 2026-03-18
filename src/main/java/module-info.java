@@ -5,4 +5,8 @@ module com.example.proyectoeventos {
 
     opens com.example.proyectoeventos to javafx.fxml;
     exports com.example.proyectoeventos;
+    exports com.example.proyectoeventos.Controller;
+    opens com.example.proyectoeventos.Controller to javafx.fxml;
+    exports com.example.proyectoeventos.App;
+    opens com.example.proyectoeventos.App to javafx.fxml;
 }
